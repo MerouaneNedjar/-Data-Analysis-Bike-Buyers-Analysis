@@ -20,6 +20,6 @@ This project analyzes **bike sales data** to identify key factors influencing pu
 ✅ **Microsoft Excel** (Pivot Tables, Charts, Dashboarding)  
 
 ## 📂 Project Files  
-🔹 [Excel Dashboard File](INSERT_LINK_HERE)  
+🔹 [Excel Dashboard File](https://github.com/MerouaneNedjar/portofolio_project/blob/main/Excel%20Project%20Dataset%20-portofolio%20project%204.xlsx)  
 
 🚀 **Feel free to explore and connect with me for similar data analysis projects!**  
