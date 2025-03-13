@@ -20,7 +20,6 @@ This project analyzes **bike sales data** to identify key factors influencing pu
 ✅ **Microsoft Excel** (Pivot Tables, Charts, Dashboarding)  
 
 ## 📂 Project Files  
-🔹 [Bike Buyers Analysis Report (PDF)](INSERT_LINK_HERE)  
 🔹 [Excel Dashboard File](INSERT_LINK_HERE)  
 
 🚀 **Feel free to explore and connect with me for similar data analysis projects!**  
